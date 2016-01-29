@@ -12,6 +12,6 @@ $ javac *.java && java Launcher
 ## Eksiklikler
 * Puan hesaplamada küçük sorunlar var.
 * Joker taşı desteklenmiyor.
-* Tahtanın durumunu kaydedilemiyor.
+* Tahtanın durumu kaydedilemiyor.
 
 Kelime listesi [Zemberek](https://code.google.com/archive/p/zemberek/source) projesinden alınmıştır.
