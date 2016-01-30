@@ -10,9 +10,9 @@ $ javac *.java && java Launcher
 ```
 
 ## Eksiklikler/Düzeltilecekler
-[ ] Puan hesaplamada küçük sorunlar var.
-[ ] Joker taşı desteklenmiyor.
-[ ] Tahtanın durumu kaydedilemiyor.
-[ ] Kelime bulma algoritması yenilenecek.
+- [ ] Puan hesaplamada küçük sorunlar var.
+- [ ] Joker taşı desteklenmiyor.
+- [ ] Tahtanın durumu kaydedilemiyor.
+- [ ] Kelime bulma algoritması yenilenecek.
 
 Kelime listesi [Zemberek](https://code.google.com/archive/p/zemberek/source) projesinden alınmıştır.
